@@ -1,0 +1,11 @@
+Plan predavanja
+
+Intro to logging
+
+loggings vs metrics
+
+How we used to log
+
+How we log now
+
+Directions for the future - structured logging
