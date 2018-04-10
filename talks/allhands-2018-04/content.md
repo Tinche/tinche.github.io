@@ -107,6 +107,15 @@ Doing the switch in-place means a smaller shock to the system, and
 changes can be rolled back.
 
 
+The 3-month roadmap
+-------------------
+
+* finish the new room server, delegate all room functionality to it.
+* introduce a structured logging system based on Elasticsearch.
+* upgrade our Kubernetes cluster (by rebuilding it from scratch).
+* start work on a user service, to remove further functionality from the existing cluster.
+* break out the admin into a separate deployment.
+
 
 Tin's personal reflections
 --------------------------
