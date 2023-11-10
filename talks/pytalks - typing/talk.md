@@ -19,7 +19,7 @@ I'm involved with the typing community
 
 <ul>
 <li class="fragment fade-in-then-semi-out" data-fragment-index="1">I work on the <em>attrs</em> mypy plugin
-<li class="fragment fade-in-then-semi-out" data-fragment-index="2"><a href="drive.google.com/file/d/1QimG7XlHLHImabjiywPUoqe92NTuIwV0/view?pli=1">typing-sig talk on attrs</a>
+<li class="fragment fade-in-then-semi-out" data-fragment-index="2"><a href="https://drive.google.com/file/d/1QimG7XlHLHImabjiywPUoqe92NTuIwV0/view?pli=1">typing-sig talk on attrs</a>
 <li class="fragment fade-in-then-semi-out" data-fragment-index="3"><a href="https://github.com/pallets/click/pull/2562">click typing infrastructure</a>
 </ul><!-- .element: style="font-size: 70%; margin-top: 2rem" -->
 
