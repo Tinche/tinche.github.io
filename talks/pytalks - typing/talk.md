@@ -72,7 +72,8 @@ Typecheckers
 <ul>
 <li class="fragment fade-in-then-semi-out" data-fragment-index="1">Mypy
 <li class="fragment fade-in-then-semi-out" data-fragment-index="2">Pyright
-<li class="fragment fade-in-then-semi-out" data-fragment-index="3">Pyre
+<li class="fragment fade-in-then-semi-out" data-fragment-index="3">PyCharm
+<li class="fragment fade-in-then-semi-out" data-fragment-index="4">Pyre
 </ul><!-- .element: style="font-size: 70%; margin-top: 2rem" -->
 
 
@@ -253,7 +254,7 @@ reveal_type(Person.__init__)
 </ul><!-- .element: style="font-size: 70%; margin-bottom: 8rem" -->
 
 ```python
-reveal_type(reveal_type(Person._default_manager.get))
+reveal_type(Person._default_manager.get)
 # def (*args: Any, **kwargs: Any) -> testdjango.models.Person"
 ```
 
